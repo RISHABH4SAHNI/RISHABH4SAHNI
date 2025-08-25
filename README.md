@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rishabh A. Sahni  
+# Hi 👋, I'm Rishabh Sahni  
 
 **Software Development Engineer (AI) at Tata 1mg** | 🎓 **BITS Pilani (CS) Graduate**  
 Passionate about building intelligent systems, scalable applications, and data-driven solutions.  
