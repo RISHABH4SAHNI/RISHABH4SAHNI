@@ -1,11 +1,16 @@
-# Hi 👋, I'm Rishabh Sahni  
+<h1 align="center">Hi 👋, I'm Rishabh Sahni</h1>  
 
-**Software Development Engineer (AI) at Tata 1mg** | 🎓 **BITS Pilani (CS) Graduate**  
-Passionate about building intelligent systems, scalable applications, and data-driven solutions.  
+<p align="center">
+  <b>Software Development Engineer (AI) at Tata 1mg</b> | 🎓 <b>BITS Pilani (CS) Graduate</b>  
+</p>  
+
+<p align="center">
+  Passionate about building intelligent systems, scalable applications, and data-driven solutions.  
+</p>  
 
 ---
 
-### About Me
+## About Me
 - Currently working as **SDE–AI at Tata 1mg**  
 - Graduated from **BITS Pilani, Pilani Campus** with a **B.E. in Computer Science**  
 - Building projects around **AI, ML, NLP, Generative AI, and Software Systems**  
@@ -15,38 +20,49 @@ Passionate about building intelligent systems, scalable applications, and data-d
 
 ---
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-sahni-612229244/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rishabhasahni2002@gmail.com)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/rishabh_sahni__)  
+## Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-sahni-612229244/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rishabhasahni2002@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/rishabh_sahni__">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>  
 
 ---
 
-### Languages and Tools:
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-</p>
+## Languages and Tools  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+</p>  
 
 ---
 
-### GitHub Stats:
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RISHABH4SAHNI&show_icons=true&theme=radical)  
+## GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RISHABH4SAHNI&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH4SAHNI&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+</p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH4SAHNI&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RISHABH4SAHNI&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH4SAHNI&theme=radical" alt="GitHub Streak"/>
+</p>  
 
 ---
 
-### Featured Projects
+## 🚀 Featured Projects  
 - **[Code Analysis Tool](https://github.com/RISHABH4SAHNI/Code_Analysis_Tool)** – AI-powered code analysis with embeddings & intelligent issue detection  
 - **[Job Recommendation System](https://github.com/RISHABH4SAHNI/Job-Recommendation-System)** – ML system for early talent–startup job matching  
 - **[Payment Fraud Detection using GNNs](https://github.com/RISHABH4SAHNI/Payment-Fraud-Detection-using-Graph-Neural-Networks-)** – Detecting fraud with graph neural networks  
@@ -55,4 +71,6 @@ Passionate about building intelligent systems, scalable applications, and data-d
 
 ---
 
-✨ Always open to learning, contributing, and collaborating on **projects that push the boundaries of AI & software engineering**.  
+<p align="center">
+✨ Always open to learning, contributing, and collaborating on <b>projects that push the boundaries of AI & software engineering</b>.  
+</p>
