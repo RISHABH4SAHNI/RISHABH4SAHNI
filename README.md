@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=RISHABH4SAHNI&label=Profile%20views&color=0e75b6&style=flat)
 
 <p align="center">
-  <b>Software Development Engineer (AI) at Tata 1mg</b> | 🎓 <b>BITS Pilani (CS) Graduate</b>  
+  <b>Software Development Engineer (AI) at Tata 1mg</b> | 🎓 <b>BITS Pilani (CS) Graduate 2025 </b>  
 </p>  
 
 <p align="center">
