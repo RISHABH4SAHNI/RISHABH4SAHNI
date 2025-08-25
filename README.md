@@ -64,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 - **[Code Analysis Tool](https://github.com/RISHABH4SAHNI/Code_Analysis_Tool)** – AI-powered code analysis with embeddings & intelligent issue detection  
 - **[Job Recommendation System](https://github.com/RISHABH4SAHNI/Job-Recommendation-System)** – ML system for early talent–startup job matching  
 - **[Payment Fraud Detection using GNNs](https://github.com/RISHABH4SAHNI/Payment-Fraud-Detection-using-Graph-Neural-Networks-)** – Detecting fraud with graph neural networks  
