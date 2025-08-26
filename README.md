@@ -70,17 +70,6 @@
 
 ---
 
-## 🔥 Dynamic Contributions  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RISHABH4SAHNI&theme=radical" alt="GitHub Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/RISHABH4SAHNI/RISHABH4SAHNI/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>  
-
----
-
 <p align="center">
 ✨ Always open to learning, contributing, and collaborating on <b>projects that push the boundaries of AI & software engineering</b>.  
 </p>
