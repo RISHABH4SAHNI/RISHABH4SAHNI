@@ -1,6 +1,6 @@
 <!-- Banner / Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rishabh+Sahni;Software+%26+Development+Engineer;BITS+Pilani+CS+Graduate+2025;Open+Source+Contributor;Entrepreneur+at+heart+💡" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rishabh+Sahni;Software+Development+Engineer;BITS+Pilani+CS+Graduate+2025;Open+Source+Contributor;Entrepreneur+at+heart+💡" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RISHABH4SAHNI&label=Profile%20views&color=0e75b6&style=flat)
