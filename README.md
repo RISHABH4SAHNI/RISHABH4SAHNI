@@ -33,8 +33,14 @@
   <a href="https://www.instagram.com/rishabh_sahni__">
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
+  <a href="https://t.me/YourTelegramUsername">
+    <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/>
+  </a>
 </p>  
 
+<p align="center">
+  <img src="./telegram_qr.png" alt="Telegram QR" width="150"/>
+</p>
 ---
 
 ## Languages and Tools  
