@@ -36,7 +36,10 @@
   <a href="https://t.me/YourTelegramUsername">
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/>
   </a>
-</p>  
+  <a href="https://discordapp.com/users/rishabhsahni_25743">
+    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/>
+  </a>
+</p> 
 
 ---
 
