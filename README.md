@@ -53,10 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH4SAHNI&theme=radical" alt="GitHub Streak"/>
 </p>  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RISHABH4SAHNI&theme=radical&margin-w=15&margin-h=15&row=1" alt="GitHub Trophies"/>
-</p>
-
 ---
 
 ## 💡 Featured Projects  
