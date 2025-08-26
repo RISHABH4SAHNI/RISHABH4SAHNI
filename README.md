@@ -37,10 +37,6 @@
     <img src="https://img.icons8.com/fluency/48/telegram-app.png" alt="Telegram"/>
   </a>
 </p>  
-
-<p align="center">
-  <img src="./telegram_qr.png" alt="Telegram QR" width="150"/>
-</p>
 ---
 
 ## Languages and Tools  
