@@ -27,6 +27,7 @@
 
 ## 🌐 Connect with Me  
 <p align="center">
+  <a href="https://leetcode.com/u/f20211630/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
   <a href="https://www.linkedin.com/in/rishabh-sahni-612229244/"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
   <a href="mailto:rishabhasahni2002@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/></a>
   <a href="https://www.instagram.com/rishabh_sahni__"><img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/></a>
