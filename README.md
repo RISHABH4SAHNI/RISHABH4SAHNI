@@ -44,15 +44,25 @@
 
 ---
 
-## 📊 GitHub & LeetCode Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RISHABH4SAHNI&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH4SAHNI&layout=compact&theme=radical" alt="Top Langs" height="160"/>
-  <img src="https://leetcard.jacoblin.cool/f20211630?font=Fira%20Code&theme=dark" alt="LeetCode Stats" height="160"/>
 </p>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH4SAHNI&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/f20211630?font=Fira%20Code&theme=dark" alt="LeetCode Stats" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/?username=f20211630&theme=dark&font=Fira%20Code&hide_title=false&hide_rating=false&hide_solved=false&hide_stars=false&hide_problems_solved=false" alt="LeetCode Heatmap" />
 </p>
 
 ---
