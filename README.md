@@ -44,15 +44,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub & LeetCode Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RISHABH4SAHNI&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RISHABH4SAHNI&layout=compact&theme=radical" alt="Top Langs" height="160"/>
+  <img src="https://leetcode-stats.vercel.app/api?username=f20211630&theme=radical" alt="LeetCode Stats" height="160"/>
 </p>  
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH4SAHNI&theme=radical" alt="GitHub Streak"/>
-</p>  
+</p>
+ 
 
 ---
 
