@@ -58,7 +58,7 @@
 
 ## 🏆 LeetCode Stats  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/f20211630?font=Fira%20Code&theme=dark" alt="LeetCode Stats" height="160"/>
+  <img src="https://leetcard.jacoblin.cool/f20211630?font=Source%20Code%20Pro&theme=dark" alt="LeetCode Stats" height="160"/>
 </p>
 
 <p align="center">
