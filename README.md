@@ -57,10 +57,7 @@
 ---
 
 ## 🏆 LeetCode Stats  
-<p align="center">
-  <img src="https://leetcode-stats.vercel.app/api?username=f20211630&theme=dark&show_icons=true&hide_border=false&font=Fira%20Code" alt="LeetCode Stats" height="180" />
-</p>
-
+<p align="center"> <img src="https://leetcard.jacoblin.cool/f20211630?font=Fira%20Code&theme=dark&ext=heatmap&width=800&height=250" alt="LeetCode Stats" /> </p>
 
 
 
