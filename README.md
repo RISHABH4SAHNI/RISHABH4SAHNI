@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats.vercel.app/?username=f20211630&theme=dark&font=Fira%20Code&hide_title=false&hide_rating=false&hide_solved=false&hide_stars=false&hide_problems_solved=false" alt="LeetCode Heatmap" />
+  <img src="https://leetcode-stats.vercel.app/?username=f20211630&theme=dark&font=Source%20Code%20Pro&hide_title=false&hide_rating=false&hide_solved=false&hide_stars=false&hide_problems_solved=false" alt="LeetCode Heatmap" />
 </p>
 
 ---
