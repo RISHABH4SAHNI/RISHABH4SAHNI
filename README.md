@@ -21,6 +21,7 @@
 - Building projects around **AI, ML, NLP, Generative AI, and Software Systems**  
 - Exploring **RAG, LLM optimization, graph neural networks, and scalable backend systems**  
 - Open to collaborate on **AI/ML, software engineering, and impactful open-source projects**  
+- 🏆 **Hacktoberfest 2025 Supercontributor** — earned Supercontributor, TreeNation, and T-shirt badges for open-source contributions  
 - Fun fact: I balance tech with entrepreneurship 💡  
 
 ---
@@ -54,7 +55,23 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RISHABH4SAHNI&theme=radical&hide_border=false" alt="GitHub Streak"/>
 </p>
 
+---
 
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest.b484fa21.svg" alt="Hacktoberfest Logo" width="80" />
+</p>
+
+- 🥇 **Hacktoberfest 2025 Supercontributor** — earned for impactful open-source contributions  
+- 🌱 **TreeNation Badge** — contributed to global reforestation through Hacktoberfest  
+- 👕 **Hacktoberfest T-shirt Recipient** — for consistent contributions across open-source projects  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RISHABH4SAHNI/RISHABH4SAHNI/main/Screenshot%202025-10-09%20at%2021.33.04.PNG" width="120" alt="Supercontributor Badge" />
+  <img src="https://raw.githubusercontent.com/RISHABH4SAHNI/RISHABH4SAHNI/main/Screenshot%202025-10-09%20at%2021.33.15.PNG" width="120" alt="TreeNation Badge" />
+  <img src="https://raw.githubusercontent.com/RISHABH4SAHNI/RISHABH4SAHNI/main/Screenshot%202025-10-09%20at%2021.25.45.png" width="120" alt="Hacktoberfest T-shirt" />
+</p>
 
 ---
 
